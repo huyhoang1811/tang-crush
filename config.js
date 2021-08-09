@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'love you 😙',
     desc: ' bạn có thích mình không?? ',
     btnYes: 'rất thích <33',
-    btnNo: 'có :3',
+    btnNo: 'có  :3',
     question:'tại sao lại thích tớ vậy chứ hjhj',
     btnReply: 'gửi câu trả lời',
     reply: 'yêu thì yêu mà không yêu thì yêu hihi',
